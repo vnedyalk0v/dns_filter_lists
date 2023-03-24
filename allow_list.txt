@@ -5,3 +5,4 @@
 @@||google.com^
 @@||googleapis.com^
 @@||gstatic.com^
+@@||cloudfront.net^
