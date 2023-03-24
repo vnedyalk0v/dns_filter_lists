@@ -1,3 +1,4 @@
 @@||youtube.com^
 @@||ytimg.com^
 @@||googlevideo.com^
+@@||googleusercontent.com^
