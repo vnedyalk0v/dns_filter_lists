@@ -1,1 +1,5 @@
 ||zamunda.net##div[class^="gdprcookie"]
+||zamunda.net##div[class^="gdprcookie-intro"]
+||zamunda.net##div[class^="gdprcookie-types"]
+||zamunda.net##div[class^="gdprcookie-buttons"]
+*$cookie,domain=kaldata.com
