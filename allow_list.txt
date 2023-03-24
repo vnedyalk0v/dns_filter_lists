@@ -1,2 +1,3 @@
-@@||youtube.com^$document
-@@||*.googlevideo.com^$document
+@@||youtube.com^
+@@||ytimg.com^
+@@||googlevideo.com^
