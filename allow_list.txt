@@ -2,3 +2,4 @@
 @@||ytimg.com^
 @@||googlevideo.com^
 @@||googleusercontent.com^
+@@||google.com^
