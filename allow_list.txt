@@ -3,3 +3,5 @@
 @@||googlevideo.com^
 @@||googleusercontent.com^
 @@||google.com^
+@@||googleapis.com^
+@@||gstatic.com^
