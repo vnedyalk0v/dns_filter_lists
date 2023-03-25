@@ -6,3 +6,4 @@
 @@||googleapis.com^
 @@||gstatic.com^
 @@||cloudfront.net^
+@@||gvt1.com^
