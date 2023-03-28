@@ -9,3 +9,4 @@
 @@||gvt1.com^
 @@||gvt2.com^
 @@||cdn.forter.com^
+@@||console.aws.a2z.com^
