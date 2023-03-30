@@ -10,3 +10,5 @@
 @@||gvt2.com^
 @@||cdn.forter.com^
 @@||console.aws.a2z.com^
+@@||cdn.ampproject.org^
+@@||fonts.gstatic.com^$important
