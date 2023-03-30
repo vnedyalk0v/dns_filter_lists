@@ -13,3 +13,4 @@
 @@||cdn.ampproject.org^
 @@||fonts.gstatic.com^$important
 @@||api.smoot.apple.com^
+@@||etsypayments.com^
