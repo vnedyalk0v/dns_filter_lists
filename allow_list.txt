@@ -15,3 +15,5 @@
 @@||api.smoot.apple.com^
 @@||etsypayments.com^
 @@||digicert.com^
+@@||amazonwebservices.d2.sc.omtrdc.net^
+@@||pki.goog^
