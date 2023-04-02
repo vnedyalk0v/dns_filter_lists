@@ -18,3 +18,4 @@
 @@||amazonwebservices.d2.sc.omtrdc.net^
 @@||pki.goog^
 @@||events.launchdarkly.com^
+@@||publisher-services.amazon.dev^
