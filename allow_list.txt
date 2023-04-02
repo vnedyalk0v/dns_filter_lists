@@ -19,3 +19,5 @@
 @@||pki.goog^
 @@||events.launchdarkly.com^
 @@||publisher-services.amazon.dev^
+@@||akamaihd.net^
+@@||.epicgames.com^
