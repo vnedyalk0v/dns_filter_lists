@@ -22,3 +22,4 @@
 @@||akamaihd.net^
 @@||.epicgames.com^
 @@||shopifysvc.com^
+@@||recaptcha.net^
