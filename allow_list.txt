@@ -21,3 +21,4 @@
 @@||publisher-services.amazon.dev^
 @@||akamaihd.net^
 @@||.epicgames.com^
+@@||shopifysvc.com^
