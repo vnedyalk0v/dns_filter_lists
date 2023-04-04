@@ -27,3 +27,4 @@
 @@||r.stripe.com^
 @@||withgoogle.com^
 @@||google.bg^
+@@||cloudflareinsights.com^
