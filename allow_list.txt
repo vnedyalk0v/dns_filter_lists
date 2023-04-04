@@ -25,3 +25,5 @@
 @@||recaptcha.net^
 @@||m.stripe.com^
 @@||r.stripe.com^
+@@||withgoogle.com^
+@@||google.bg^
