@@ -29,3 +29,4 @@
 @@||google.bg^
 @@||cloudflareinsights.com^
 @@||canva.com^
+@@||mcs-va.tiktokv.com^
