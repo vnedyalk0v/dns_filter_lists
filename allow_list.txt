@@ -31,3 +31,7 @@
 @@||canva.com^
 @@||mcs-va.tiktokv.com^
 @@||weidai.com^
+@@||autoconfig.gmail.com^
+@@||gmail.com^
+@@||mail.gmail.com^
+@@||imap.gmail.com^
