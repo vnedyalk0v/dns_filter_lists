@@ -35,3 +35,4 @@
 @@||gmail.com^
 @@||mail.gmail.com^
 @@||imap.gmail.com^
+@@||firebaseio.com^
